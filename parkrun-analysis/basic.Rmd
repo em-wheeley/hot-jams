@@ -1,0 +1,5 @@
+### Overview of Project
+The purpose this file is to demonstrate an understanding of statistical analysis and visualisation in R. 
+### Data Structure
+
+### Tests
